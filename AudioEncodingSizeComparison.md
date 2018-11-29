@@ -1,6 +1,6 @@
 # Size Comparison of Various Audio Encoding Schemes
 
-What audio encoding scheme produces the smallest files for short (<30 second) English audio? 100 16kHz 16-bit samples were downloaded from [VoxForge](http://www.voxforge.org/) from this [page](http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/16kHz_16bit/). The files were then imported in Mathematica and exported in various formats and their file size recorded.
+What audio encoding scheme produces the smallest files for short (<30 second) English audio? 100 16kHz 16-bit samples were downloaded from [VoxForge](http://www.voxforge.org/) from this [page](http://www.repository.voxforge1.org/downloads/SpeechCorpus/Trunk/Audio/Main/16kHz_16bit/). The files were then imported in Mathematica and exported in various formats and their file sizes recorded.
 
 ### Data Properties
 
@@ -22,4 +22,4 @@ What audio encoding scheme produces the smallest files for short (<30 second) En
 | SND | 88 | 148 | 164 | 448 | 
 | WAV | 88 | 148 | 164 | 448 | 
 | AIFF | 88 | 148 | 164 | 448 | 
-| w64 | 88 | 148 | 164 | 448 | 
+| WAVE64 | 88 | 148 | 164 | 448 | 
